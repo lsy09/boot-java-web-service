@@ -1,7 +1,10 @@
 rootProject.name = 'boot-javawebservice'
 include 'ch02',
         'ch03',
-        'ch04'
+        'ch04',
+        'ch07',
+        'ch07:CustombootStarter',
+        'ch07:UseCustomStarter'
 
 //,
 //'ch03-web',
@@ -10,9 +13,6 @@ include 'ch02',
 //'ch06-querydsl',
 //'ch06-mybatis',
 //'ch06-mariadb',
-//'ch07',
-//'ch07:CustombootStarter',
-//'ch07:UseCustomStarter',
 //'ch08',
 //'ch09',
 //'ch10' ,
